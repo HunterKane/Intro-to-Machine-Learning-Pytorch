@@ -1,2 +1,2 @@
 # Intro-to-Machine-Learning-Pytorch
-Supervised  &amp; unsupervised Learning, Deep Learning Projects 
+Supervised  &amp; Unsupervised Learning, Deep Learning Projects 
