@@ -1,16 +1,30 @@
 # Intro-to-Machine-Learning-with-Pytorch
 Project assignments for Udacity's Intro to Machine Learning with Pytorch Nanodegree Program image1
 
+
+# Getting Started 
+
+- Install Anaconda and dependecies
+- Clone this repository to your machine
+- Create a virtual environment to install dependencies
+- Activate the new virtual environment
+- Install packages dependencies pip install -r requirements.txt
+- Start jupyter-lab using the command jupyter notebook
+
+--------------------------------------------------------------------------------
+
 ## Project 1 (Supervised Learning):
 Finding Donors for CharityML
 
 **Overview of Project**
+
 CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone who was making more than $50,000 annually. To expand its potential donor base, CharityML has decided to send letters to residents of California, but to only those most likely to donate to the charity. With nearly 15 million working Californians, CharityML has brought you on board to help build an algorithm to best identify potential donors and reduce the overhead cost of sending mail. Your goal will be to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
 
 ## Project 2 (Deep Learning):
 Develop code for an image classifier built with PyTorch, then convert it into a command line application.
 
 **Overview of Project**
+
 AI algorithms will be incorporated into more and more everyday applications. For example, you might want to include an image classifier in a smartphone app. To do this, you'd use a deep learning model trained on hundreds of thousands of images as part of the overall application architecture. A large part of software development in the future will be using these types of models as common parts of applications.
 
 Train an image classifier to recognize different species of flowers. You can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice you'd train this classifier, then export it for use in your application.
